@@ -21,7 +21,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My github stats
 
-| <a href="https://github.com/letranbaosuong"><img align="center" src="https://github-readme-stats.vercel.app/api?username=letranbaosuong&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true" alt="Hai's github stats" /></a> | <a href="https://github.com/letranbaosuong"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letranbaosuong&theme=graywhite&&hide=c%23,c%2B%2B&langs_count=10&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/letranbaosuong"><img align="center" src="https://github-readme-stats.vercel.app/api?username=letranbaosuong&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true" alt="Hai's github stats" /></a> | <a href="https://github.com/letranbaosuong"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=letranbaosuong&theme=graywhite&langs_count=10&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 [![gitlab](https://img.shields.io/badge/-GitLab-380D75?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/letranbaosuong)
