@@ -14,12 +14,12 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 **Skill:**  
 
 <code><img height="20" src="./assets/images/gif/flutter.gif"></code>
-[![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/hoc081098/rx_shared_preferences)
-[![Dart](https://img.shields.io/badge/dart-%231DA1F2.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/disposebag)
+[![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/dart-%231DA1F2.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 📈 My github stats
 
