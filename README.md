@@ -29,7 +29,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![gitlab](https://img.shields.io/badge/-GitLab-380D75?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/letranbaosuong)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0073B1?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/letranbaosuong)
 [![gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:letranbaosuong@gmail.com)
-[![face](https://img.shields.io/badge/-Facebook-0165E1?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/suong.le99)
+[![face](https://img.shields.io/badge/-Facebook-0165E1?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/letranbaosuong)
 [![insta](https://img.shields.io/badge/-Instagram-D82A78?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/letranbaosuong)
 [![skype](https://img.shields.io/badge/-Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)]()
 <!--
